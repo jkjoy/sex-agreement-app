@@ -40,6 +40,7 @@ export default function Home() {
       <div className="mt-8 text-center max-w-3xl w-full text-sm opacity-80">
         <div className="border-t pt-6 border-gray-200 dark:border-gray-700">
           <div className="mt-3">
+          ©️  2025 www.ooxxw.com 版权所有 
           </div>
         </div>
       </div>
